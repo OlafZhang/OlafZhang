@@ -7,7 +7,7 @@ Visit Count: ![Visit Count](https://profile-counter.glitch.me/OlafZhang/count.sv
 
 ![kagg886's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlafZhang&show_icons=true&theme=radical)
 
-![my favorite lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlafZhang&layout=compact&hide_border=true&langs_count=50)
+![my favorite lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlafZhang&layout=compact&hide_border=true&langs_count=1000)
 
 # 如何联系我/Contact
 - olafzhang1999@foxmail.com
